@@ -1,0 +1,9 @@
+.cabecalho {
+    background-color: var(--cor-cabecalho);
+    padding: 0.3em;
+}
+
+.cabecalho__titulo {
+    color: var(--cor-fonte-cabecalho);
+    font-weight: 600;
+}

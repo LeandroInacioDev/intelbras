@@ -1,0 +1,17 @@
+@import url(../style/reset.css);
+@import url(../style/cabecalho.css);
+@import url(../style/container.css);
+
+:root {
+    --fonte-principal: "Roboto", sans-serif;
+    --cor-fundo: ;
+    --cor-cabecalho: rgb(3, 81, 68);
+    --cor-fonte-cabecalho: white;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 60px;
+    font-weight: 400;
+}
